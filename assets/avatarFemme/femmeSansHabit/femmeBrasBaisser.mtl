@@ -1,0 +1,147 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl HEELSG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump_2862.jpg
+map_Kd FV2_Open_Toe_Pump_2862.jpg
+newmtl W_Shoes_skinSG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump_2862.jpg
+map_Kd FV2_Open_Toe_Pump_2862.jpg
+newmtl W_Shoes_skinSG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump_2862.jpg
+map_Kd FV2_Open_Toe_Pump_2862.jpg
+newmtl HEELSG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump_2862.jpg
+map_Kd FV2_Open_Toe_Pump_2862.jpg
+newmtl dummySG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka transparency_2857.png
+map_Kd transparency_2857.png
+map_d transparency_2857.png
+newmtl dummySG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka transparency_2857.png
+map_Kd transparency_2857.png
+map_d transparency_2857.png
+newmtl hair2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.032324 0.032324 0.032324
+Ns 6.310000
+illum 2
+d 1.000000
+map_Ka hair.jpg
+map_Kd hair.jpg
+newmtl Mara:arm2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka arm_2979.jpg
+map_Kd arm_2979.jpg
+newmtl Mara:eye2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.560000 0.560000 0.560000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye_2990.jpg
+map_Kd eye_2990.jpg
+newmtl Mara:eye2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.560000 0.560000 0.560000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye_2990.jpg
+map_Kd eye_2990.jpg
+newmtl Mara:face2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka face_2971.jpg
+map_Kd face_2971.jpg
+newmtl Mara:body3
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka Body_Covered_Black.jpg
+map_Kd Body_Covered_Black.jpg
+newmtl Mara:leg2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka leg_2983.jpg
+map_Kd leg_2983.jpg
+newmtl Mara:skin_14:skin_13:skin_11:skin_10:pose:pose:eyelash1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka eyelash_3003.jpg
+map_Kd eyelash_3003.jpg
+newmtl Mara:skin_14:skin_13:skin_11:skin_10:pose:pose:eyelash1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka eyelash_3003.jpg
+map_Kd eyelash_3003.jpg
+newmtl Mara:tooth2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka tooth_3016.jpg
+map_Kd tooth_3016.jpg
