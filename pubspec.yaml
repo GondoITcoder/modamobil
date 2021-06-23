@@ -62,6 +62,9 @@ flutter:
     - assets/avatarHomme/hommeSansHabit/
     - assets/avatarFemme/femmeSansHabit/
     - assets/vetementFemme/robe_bleu_blanc/
+    - assets/vetementHomme/boubou/
+    - assets/vetementHomme/2/
+    - assets/vetementFemme/baoule/
 
 
     # - assets/fichier/

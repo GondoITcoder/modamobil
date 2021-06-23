@@ -1,0 +1,163 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Default_Fabric_FRONT_247106
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl PT_FABRIC_FRONT_249583
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka ImagePagneBaoulé2.jpeg
+map_Kd ImagePagneBaoulé2.jpeg
+newmtl Material12523
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump.jpg
+map_Kd FV2_Open_Toe_Pump.jpg
+newmtl Material12516
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl Material12539
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.032324 0.032324 0.032324
+Ns 6.310000
+illum 2
+d 1.000000
+map_Ka hair.jpg
+map_Kd hair.jpg
+newmtl Material12616
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka arm.jpg
+map_Kd arm.jpg
+newmtl Material12627
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye.jpg
+map_Kd eye.jpg
+newmtl Material12620
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka leg.jpg
+map_Kd leg.jpg
+newmtl Material12653
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka tooth.jpg
+map_Kd tooth.jpg
+newmtl Material12608
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka face.jpg
+map_Kd face.jpg
+newmtl Material12494
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka transparency.png
+map_Kd transparency.png
+map_d transparency.png
+newmtl Material12499
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump.jpg
+map_Kd FV2_Open_Toe_Pump.jpg
+newmtl Material12520
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump.jpg
+map_Kd FV2_Open_Toe_Pump.jpg
+newmtl Material12503
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.058500 0.058500 0.058500
+Ns 16.000000
+illum 2
+d 1.000000
+map_Ka FV2_Open_Toe_Pump.jpg
+map_Kd FV2_Open_Toe_Pump.jpg
+newmtl Material12612
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka body.jpg
+map_Kd body.jpg
+newmtl Material12647
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka eyelash.jpg
+map_Kd eyelash.jpg
+newmtl Material12634
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye.jpg
+map_Kd eye.jpg
+newmtl Material12640
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.050407 0.050407 0.050407
+Ns 11.999997
+illum 2
+d 1.000000
+map_Ka eyelash.jpg
+map_Kd eyelash.jpg

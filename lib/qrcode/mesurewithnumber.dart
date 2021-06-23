@@ -18,17 +18,6 @@ class MesureWithNumberState extends State<MesureWithNumber> {
     Uri.parse(Constant.websocketIp),
   );
 
-  // final FocusNode myFocusNode = FocusNode();
-
-  @override
-  void initState() {
-    super.initState();
-  }
-
-  void incrementCounter() {
-    setState(() {});
-  }
-
   Widget donneMesure() {
     // ignore: non_constant_identifier_names
     String T, LE, LB, LJ, TT, HD, S;

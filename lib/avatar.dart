@@ -44,11 +44,9 @@ class AvatarState extends State<Avatar> {
 
   //LISTE IMAGE DE VETEMENTS
   final List<String> listHabitHomme = [
-    "assets/images/pologris.jpg",
-    "assets/images/ChemiseHomme.jpeg",
-    "assets/images/Chemise-bazin.jpeg",
-    "assets/images/tee-shirt-orange.jpeg",
-    "assets/images/Veste-Homme.jpeg",
+    "assets/vetementHomme/PullOverBlogolanVert.png",
+    "assets/vetementHomme/TShirtBlancMotifWAX.png",
+    "assets/vetementHomme/BoubouJaune.png",
   ];
 
   //LISTE IMAGE DE VETEMENTS
@@ -59,41 +57,50 @@ class AvatarState extends State<Avatar> {
     "assets/images/jupe.jpeg",
   ];
 
-  var vetement1 = ModelVetement(
+  var vetementhomme1 = ModelVetement(
+      "Pullover Blogolan",
+      "assets/vetementHomme/PullOverBlogolanVert.png",
+      "assets/vetementHomme/2/2.obj");
+  var vetementhomme2 = ModelVetement(
+      "boubou",
+      "assets/vetementHomme/BoubouJaune.png",
+      "assets/vetementHomme/boubou/boubou.obj");
+
+  var vetementfemme1 = ModelVetement(
       "Robe bleu blanc",
       "assets/vetementFemme/robe_bleu_blanc.png",
       "assets/vetementFemme/robe_bleu_blanc/robe_bleu_blanc.obj");
-  var vetement2 = ModelVetement(
+  var vetementfemme2 = ModelVetement(
       "Robe rose",
       "assets/vetementFemme/robe_rose.png",
       "assets/vetementFemme/robe_rose/robe_rose.obj");
-  var vetement3 = ModelVetement(
+  var vetementfemme3 = ModelVetement(
       "Robe soiré rouge",
       "assets/vetementFemme/robe_rouge.png",
       "assets/vetementFemme/robe_rouge_noir/robe_rouge_noir.obj");
-  var vetement4 = ModelVetement(
-      "Robe bleu blanc",
-      "assets/vetementFemme/robe_bleu_blanc.png",
-      "assets/vetementFemme/robe_bleu_blanc/robe_bleu_blanc.obj");
-  var vetement5 = ModelVetement(
+  var vetementfemme4 = ModelVetement("Robe baoulé",
+      "assets/vetementFemme/1.png", "assets/vetementFemme/baoule/baoule.obj");
+  var vetementfemme5 = ModelVetement(
       "Robe rose",
       "assets/vetementFemme/robe_rose.png",
       "assets/vetementFemme/robe_rose/robe_rose.obj");
-  var vetement6 = ModelVetement(
+  var vetementfemme6 = ModelVetement(
       "Robe soiré rouge",
       "assets/vetementFemme/robe_rouge.png",
       "assets/vetementFemme/robe_rouge_noir/robe_rouge_noir.obj");
-  
 
   @override
   Widget build(BuildContext context) {
-    List listvetements = [];
-    listvetements.add(vetement1);
-    listvetements.add(vetement2);
-    listvetements.add(vetement3);
-    listvetements.add(vetement4);
-    listvetements.add(vetement5);
-    listvetements.add(vetement6);
+    List listvetementshomme = [];
+    listvetementshomme.add(vetementhomme1);
+    listvetementshomme.add(vetementhomme2);
+    List listvetementsfemme = [];
+    listvetementsfemme.add(vetementfemme1);
+    listvetementsfemme.add(vetementfemme2);
+    listvetementsfemme.add(vetementfemme3);
+    listvetementsfemme.add(vetementfemme4);
+    listvetementsfemme.add(vetementfemme5);
+    listvetementsfemme.add(vetementfemme6);
     return Scaffold(
       appBar: AppBar(
         title: Text(genreValue),
@@ -132,8 +139,8 @@ class AvatarState extends State<Avatar> {
                 child: ListView.builder(
                   scrollDirection: Axis.horizontal,
                   itemCount: (genreSate())
-                      ? listHabitHomme.length
-                      : listvetements.length,
+                      ? listvetementshomme.length
+                      : listvetementsfemme.length,
                   itemBuilder: (context, index) {
                     return GestureDetector(
                       onTap: () {
@@ -145,7 +152,11 @@ class AvatarState extends State<Avatar> {
                         Navigator.pushReplacement(
                           context,
                           MaterialPageRoute(builder: (context) {
-                            return Avatar("Femme", listvetements[index].urlobj);
+                            return Avatar(
+                                (genreSate()) ? "Homme" : "Femme",
+                                (genreSate())
+                                    ? listvetementshomme[index].urlobj
+                                    : listvetementsfemme[index].urlobj);
                           }),
                         );
                       },
@@ -156,8 +167,8 @@ class AvatarState extends State<Avatar> {
                             // color: Colors.red,
                             child: Image.asset(
                               (genreSate())
-                                  ? listHabitHomme[index]
-                                  : listvetements[index].urlimage,
+                                  ? listvetementshomme[index].urlimage
+                                  : listvetementsfemme[index].urlimage,
                               fit: BoxFit.fill,
                             ),
                           ),
