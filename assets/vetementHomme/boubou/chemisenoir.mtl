@@ -1,0 +1,144 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Fur_Fox_FRONT_215407
+Ka 0.015428 0.020571 0.023142
+Kd 0.060000 0.080000 0.090000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Default_Fabric_FRONT_164484
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl body2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.125000 0.125000 0.125000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka body_Covered_R255_G255_B255.png
+map_Kd body_Covered_R255_G255_B255.png
+newmtl arm
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.125000 0.125000 0.125000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka arm_R255_G255_B255.png
+map_Kd arm_R255_G255_B255.png
+newmtl lambert2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka hair_R255_G255_B255.png
+map_Kd hair_R255_G255_B255.png
+map_d hair.png
+newmtl face
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.125000 0.125000 0.125000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka face_R255_G255_B255.png
+map_Kd face_R255_G255_B255.png
+newmtl eye
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.560000 0.560000 0.560000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye_R255_G255_B255.png
+map_Kd eye_R255_G255_B255.png
+newmtl eye
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.560000 0.560000 0.560000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye_R255_G255_B255.png
+map_Kd eye_R255_G255_B255.png
+newmtl leg
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.125000 0.125000 0.125000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka leg_R255_G255_B255.png
+map_Kd leg_R255_G255_B255.png
+newmtl toothSG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka tooth_R255_G255_B255.png
+map_Kd tooth_R255_G255_B255.png
+newmtl eyelash
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka eyelash_R255_G255_B255.png
+map_Kd eyelash_R255_G255_B255.png
+newmtl eyelash
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka eyelash_R255_G255_B255.png
+map_Kd eyelash_R255_G255_B255.png
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_dummy1FBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka transparency_R255_G255_B255.png
+map_Kd transparency_R255_G255_B255.png
+map_d transparency.png
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_man_sports_shoes_shoesFBXASC045fx2SG1SG1SG1SG1S1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.064778 0.064778 0.064778
+Ns 19.999998
+illum 2
+d 1.000000
+map_Ka Male_Sneaker_01_R255_G255_B255.png
+map_Kd Male_Sneaker_01_R255_G255_B255.png
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_man_sports_shoes_shoesFBXASC045fx2SG1SG1SG1SG1S1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.064778 0.064778 0.064778
+Ns 19.999998
+illum 2
+d 1.000000
+map_Ka Male_Sneaker_01_R255_G255_B255.png
+map_Kd Male_Sneaker_01_R255_G255_B255.png
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_dummy1FBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka transparency_R255_G255_B255.png
+map_Kd transparency_R255_G255_B255.png
+map_d transparency.png

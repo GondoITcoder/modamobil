@@ -60,11 +60,15 @@ class AvatarState extends State<Avatar> {
   var vetementhomme1 = ModelVetement(
       "Pullover Blogolan",
       "assets/vetementHomme/PullOverBlogolanVert.png",
-      "assets/vetementHomme/2/2.obj");
+      "assets/vetementHomme/1/1.obj");
   var vetementhomme2 = ModelVetement(
       "boubou",
-      "assets/vetementHomme/BoubouJaune.png",
-      "assets/vetementHomme/boubou/boubou.obj");
+      "assets/vetementHomme/TShirtBlancMotifWAX.png",
+      "assets/vetementHomme/boubou/chemisenoir.obj");
+  var vetementhomme3 = ModelVetement(
+      "pull sport bleu",
+      "assets/vetementHomme/PullSportBleu.png",
+      "assets/vetementHomme/pulsportbleu/pulsportbleu.obj");
 
   var vetementfemme1 = ModelVetement(
       "Robe bleu blanc",
@@ -94,6 +98,8 @@ class AvatarState extends State<Avatar> {
     List listvetementshomme = [];
     listvetementshomme.add(vetementhomme1);
     listvetementshomme.add(vetementhomme2);
+    listvetementshomme.add(vetementhomme3);
+    // listvetementshomme.add(vetementhomme2);
     List listvetementsfemme = [];
     listvetementsfemme.add(vetementfemme1);
     listvetementsfemme.add(vetementfemme2);

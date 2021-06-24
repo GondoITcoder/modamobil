@@ -1,0 +1,145 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_man_sports_shoes_shoesFBXASC045fx2SG1SG1SG1SG1S1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.064778 0.064778 0.064778
+Ns 19.999998
+illum 2
+d 1.000000
+map_Ka Male_Sneaker_01_R255_G255_B255.png
+map_Kd Male_Sneaker_01_R255_G255_B255.png
+newmtl PT_FABRIC_FRONT_20995
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka WhatsApp Image 2021-05-25 at 11.41.29 (2)_R255_G255_B255.png
+map_Kd WhatsApp Image 2021-05-25 at 11.41.29 (2)_R255_G255_B255.png
+newmtl PT_FABRIC_FRONT_21012
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka WhatsApp Image 2021-05-25 at 11.41.29 (2)_R255_G255_B255.png
+map_Kd WhatsApp Image 2021-05-25 at 11.41.29 (2)_R255_G255_B255.png
+newmtl Default_Fabric_FRONT_15603
+Ka 0.102853 0.102853 0.008067
+Kd 0.400000 0.400000 0.031373
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_dummy1FBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka transparency_R255_G255_B255.png
+map_Kd transparency_R255_G255_B255.png
+map_d transparency.png
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_man_sports_shoes_shoesFBXASC045fx2SG1SG1SG1SG1S1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.064778 0.064778 0.064778
+Ns 19.999998
+illum 2
+d 1.000000
+map_Ka Male_Sneaker_01_R255_G255_B255.png
+map_Kd Male_Sneaker_01_R255_G255_B255.png
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_dummy1FBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka transparency_R255_G255_B255.png
+map_Kd transparency_R255_G255_B255.png
+map_d transparency.png
+newmtl Material7537
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka face_R255_G255_B255.png
+map_Kd face_R255_G255_B255.png
+newmtl Material7541
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka MV2_Nate_Covered_Body_R255_G255_B255.png
+map_Kd MV2_Nate_Covered_Body_R255_G255_B255.png
+newmtl Material7545
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka arm_R255_G255_B255.png
+map_Kd arm_R255_G255_B255.png
+newmtl Material7556
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye_R255_G255_B255.png
+map_Kd eye_R255_G255_B255.png
+newmtl Material7549
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.090000 0.090000 0.090000
+Ns 49.022923
+illum 2
+d 1.000000
+map_Ka MV2_Nate_Covered_Leg_R255_G255_B255.png
+map_Kd MV2_Nate_Covered_Leg_R255_G255_B255.png
+newmtl Material7576
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka eyelash_R255_G255_B255.png
+map_Kd eyelash_R255_G255_B255.png
+newmtl Material7582
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka tooth_R255_G255_B255.png
+map_Kd tooth_R255_G255_B255.png
+newmtl Material7563
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka eye_R255_G255_B255.png
+map_Kd eye_R255_G255_B255.png
+newmtl Material7569
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka eyelash_R255_G255_B255.png
+map_Kd eyelash_R255_G255_B255.png
